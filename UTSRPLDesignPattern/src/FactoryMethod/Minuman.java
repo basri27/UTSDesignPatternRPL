@@ -2,6 +2,7 @@ package FactoryMethod;
 
 public interface Minuman{
     void rasa();
+    int a;
 }
 
 //digunakan sebagai produk yang methodnya akan diimplementasikan pada concrate produk
